@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'am Sahil Gupta </h2>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmlhcDNubm9ldzA3c2l1cTdtZ2xkcGY5ZnR1YWV4eGd2b3YxMG91biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" width="330">
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building full stack MERN applications and improving my portfolio  <br><br>👯 I’m looking to collaborate on  <br>MERN stack projects, open-source contributions, and real-world web apps  <br><br>🤝 I’m looking for help with  <br>System design, backend optimization, and scalable architectures  <br><br>🌱 I’m currently learning  <br>Advanced React, Node.js, Firebase, and Data Structures & Algorithms  <br><br>💬 Ask me about  <br>React, Node.js, MongoDB, Tailwind CSS, Firebase  <br><br>⚡ Fun fact  <br>I enjoy debugging more than writing code 😄
+🔭 I’m currently working on  <br>Building full stack MERN applications and improving my portfolio  <br><br>👯 I’m looking to collaborate on  <br>MERN stack projects, open-source contributions, and real-world web apps  <br><br>🌱 I’m currently learning  <br>Advanced React, Node.js, Firebase, and Data Structures & Algorithms  <br><br>💬 Ask me about  <br>React, Node.js, MongoDB, Tailwind CSS, Firebase  <br><br>⚡ Fun fact  <br>I enjoy debugging more than writing code 😄
 
 
 ## 🌐 Socials:
