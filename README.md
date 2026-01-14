@@ -55,9 +55,16 @@ I enjoy debugging more than writing code 😄
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SAHILTHESPIDER&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SAHILTHESPIDER&theme=shadow_blue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILTHESPIDER&theme=shadow_blue&hide_border=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAHILTHESPIDER&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAHILTHESPIDER&theme=shadow_blue&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILTHESPIDER&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" height="160"/>
+</p>
 
 ---
 
