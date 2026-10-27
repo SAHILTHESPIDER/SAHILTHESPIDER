@@ -54,7 +54,7 @@ I enjoy debugging more than writing code 😄
 
 ---
 
-## 📊 GitHub Stats
+
 ## 📊 GitHub Stats
 
 <p align="center">
