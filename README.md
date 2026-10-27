@@ -68,10 +68,7 @@ I enjoy debugging more than writing code 😄
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAHILTHESPIDER&theme=dark&no-frame=true)
 
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
