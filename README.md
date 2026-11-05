@@ -16,7 +16,7 @@ MERN stack projects, open-source contributions, and real-world web apps
 Advanced React, Node.js, Firebase, and Data Structures & Algorithms  
 
 💬 **Ask me about:**  
-React, Node.js, MongoDB, Tailwind CSS, Firebase  
+React, Node.js, MongoDB, Tailwind CSS, Firebase,Typescript 
 
 ⚡ **Fun fact:**  
 I enjoy debugging more than writing code 😄  
