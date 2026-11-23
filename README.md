@@ -21,8 +21,11 @@ React, Node.js, MongoDB, Tailwind CSS, Firebase,Typescript
 ⚡ **Fun fact:**  
 I enjoy debugging more than writing code 😄  
 
-🤖 Exploring AI-Powered Projects — AI INTERVIEW
-<a herf' target='_blank'><img height='36' style='border:0px;height:36px;' src'' border='0' alt='AI INTERVIEW' /></a>
+- 🤖 Exploring [**AI Interview**](https://github.com/SAHILTHESPIDER/AI-INTERVIEW) — AI-powered interview preparation platform  
+  <a href="https://github.com/SAHILTHESPIDER/AI-INTERVIEW" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_Project-6C63FF?style=for-the-badge" alt="Explore AI Interview"/>
+  </a>
+
 ---
 
 ## 🌐 Socials
